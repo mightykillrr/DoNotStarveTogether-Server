@@ -1,6 +1,6 @@
 # Dockerfile for Don't Starve Together Server
 
-This repository contains `Dockerfile` for running a Don't Starve Together (DST) server using Docker. 
+This repository contains `Dockerfile` for running a Don't Starve Together (DST) server using Docker.
 
 - Server instructions were taken from [Dedicated Server Quick Setup Guide - Linux](https://forums.kleientertainment.com/forums/topic/64441-dedicated-server-quick-setup-guide-linux/).
 - SteamCMD was built using [SteamCMD's Dockerfile](https://github.com/CM2Walki/steamcmd)
