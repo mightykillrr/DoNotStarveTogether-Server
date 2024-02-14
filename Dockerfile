@@ -13,8 +13,6 @@ RUN set -x \
         libgcc1-i386-cross \
         libcurl4-gnutls-dev
 
-# Copy the server data into the container
-COPY  ./serverData/ ./.klei/DoNotStarveTogether/MyDediServer
 # Copy the startup script into the container
 COPY ./src/start.sh ./start.sh
 
